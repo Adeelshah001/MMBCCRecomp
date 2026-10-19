@@ -1,0 +1,22 @@
+# Game data — never commit
+rom/
+*.gba
+*.bin
+*.sav
+*.sgm
+# Framework clone (upstream gbarecomp repo, referenced separately)
+recompiler/
+# Build outputs
+build/
+build-*/
+*.o
+*.a
+*.lib
+*.exe
+# Healing/runtime caches
+recomp_cache/
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

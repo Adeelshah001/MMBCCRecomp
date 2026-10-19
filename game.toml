@@ -1,0 +1,11 @@
+# Mega Man Battle Chip Challenge (USA) — gbarecomp per-binary config
+[program]
+name         = "Mega Man Battle Chip Challenge"
+id           = "mmbcc"
+load_address = 0x08000000
+size         = 0x00800000
+entry_pc     = 0x080000C0
+
+[identity]
+sha1 = "72309736f3820470c6f372d6a05ad1f16bc5a946"
+md5  = "d996f6cbb36eb15063b290d8f00ad654"
