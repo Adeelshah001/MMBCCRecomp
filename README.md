@@ -1,5 +1,8 @@
 # Mega Man Battle Chip Challenge — Recompiled (private)
 
+**AI Label**:
+***Created using the help of Meta's Muse***
+
 Static recompilation of **Mega Man Battle Chip Challenge (USA, GBA)** into
 portable C++ using the [gbarecomp](https://github.com/mstan/gbarecomp)
 framework (ARM7TDMI machine code translated ahead-of-time to native C++).
