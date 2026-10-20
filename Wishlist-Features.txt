@@ -1,6 +1,6 @@
 -Adaptive Widescreen (16:9 or 21:9): Instead of merely stretching the native 240×160 resolution, players look for extended camera boundaries, realigned HUDs, and smart asset rendering so backgrounds naturally fill modern displays without graphical borders ripping or culling. 
 
--Uncapped Frame Rates: GBA games natively target ~60 FPS, but players heavily request true, unlocked frame rates utilizing high-refresh-rate monitors without speeding up the actual internal engine logic 
+-Uncapped Frame Rates: GBA games negatively target ~60 FPS, but players heavily request true, unlocked frame rates utilizing high-refresh-rate monitors without speeding up the actual internal engine logic 
 
 -option to skip tutorial
 
@@ -10,3 +10,6 @@
 
 -improve text clarity and resolution. 
 
+-save states/load states from a keyboard/controller press. (ex. L3 to load state, R3 to save state)
+
+-add quit game option in main menu/in game options or have a keybind for it. 
