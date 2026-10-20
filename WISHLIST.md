@@ -34,6 +34,9 @@ To add a new item, copy the template at the bottom and fill it in.
 - **Description:** Add fast-forward that speeds up gameplay without changing
   music/sound speed (or with pitch correction), so audio doesn't become
   chipmunked during fast-forward.
+- **Notes (2026-10-20):** User confirms the current build has NO sound at all
+  during fast-forward. Target state: fast-forward active with audio playing
+  unaffected (normal speed/pitch).
 
 ## 6. PS5 Controller Fullscreen Toggle
 - **Status:** Done (2026-10-20)
@@ -59,6 +62,21 @@ To add a new item, copy the template at the bottom and fill it in.
 - **Status:** Planned
 - **Description:** Add a quit-game option in the main menu / in-game options,
   or a dedicated keybind, so you can exit cleanly without Alt+F4.
+
+## 10. Controller Remapping
+- **Status:** Planned
+- **Description:** Let the player remap controller buttons in-game (the way
+  keybinds.ini already allows keyboard remapping), so any pad layout —
+  PS5, Xbox, or generic — can be customized and saved.
+
+## 11. Help Menu (Build Version + GitHub Issue Tickets)
+- **Status:** Planned — HOLD: do not implement until there is a proper
+  playable alpha without graphical glitches (user directive, 2026-10-20).
+- **Description:** Add a Help selection to the menu bar with two options:
+  (a) **About / Version** — shows the current build version (e.g. v001,
+  numbering starts with the first playable alpha, per the user), and
+  (b) **Report Issue** — lets the user open a GitHub issue ticket directly
+  against the project repo from inside the game.
 
 ---
 
