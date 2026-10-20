@@ -36,9 +36,13 @@ To add a new item, copy the template at the bottom and fill it in.
   chipmunked during fast-forward.
 
 ## 6. PS5 Controller Fullscreen Toggle
-- **Status:** Planned
+- **Status:** Done (2026-10-20)
 - **Description:** Allow mapping a pad button (e.g., PS5 controller touchpad
   or other button) to toggle fullscreen, so you don't need the keyboard.
+- **Notes:** Implemented as a DualSense/DualShock touchpad click handler in
+  the host window event pump (`SDL_CONTROLLER_BUTTON_TOUCHPAD` →
+  `toggle_fullscreen`, same flag as the keyboard hotkey). Suppressed while
+  the runtime UI is open. Shipped in the launcher build of 2026-10-20.
 
 ## 7. Improved Text Clarity & Resolution
 - **Status:** Planned
