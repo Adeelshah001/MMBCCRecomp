@@ -29,6 +29,33 @@ To add a new item, copy the template at the bottom and fill it in.
 - **Description:** Add options for upscaling the render resolution and dumping
   HD textures/sprites, allowing higher-fidelity visuals on modern displays.
 
+## 5. Fast Forward Without Audio Pitch Change
+- **Status:** Planned
+- **Description:** Add fast-forward that speeds up gameplay without changing
+  music/sound speed (or with pitch correction), so audio doesn't become
+  chipmunked during fast-forward.
+
+## 6. PS5 Controller Fullscreen Toggle
+- **Status:** Planned
+- **Description:** Allow mapping a pad button (e.g., PS5 controller touchpad
+  or other button) to toggle fullscreen, so you don't need the keyboard.
+
+## 7. Improved Text Clarity & Resolution
+- **Status:** Planned
+- **Description:** Improve text rendering clarity and resolution — sharper fonts,
+  better scaling, so dialogue and UI text is crisp on high-DPI displays.
+
+## 8. Save States via Controller/Keyboard
+- **Status:** Planned
+- **Description:** Add save state / load state triggers mappable to keyboard
+  or controller buttons (e.g., L3 to load state, R3 to save state) for
+  quick save/load without opening menus.
+
+## 9. Quit Game Option
+- **Status:** Planned
+- **Description:** Add a quit-game option in the main menu / in-game options,
+  or a dedicated keybind, so you can exit cleanly without Alt+F4.
+
 ---
 
 ## Template (copy for new items)
