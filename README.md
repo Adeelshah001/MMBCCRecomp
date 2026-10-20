@@ -1,5 +1,4 @@
-# Mega Man Battle Chip Challenge — Recompiled (private)
-
+# Mega Man Battle Chip Challenge — Recompiled 
 **AI Label**:
 ***Created using the help of Meta's Muse***
 
